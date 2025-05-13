@@ -1,4 +1,4 @@
-# 🎥 VideoVerge
+# 🎥 VideoVibes
 
 **Videovibes** is a robust video-sharing platform with integrated **tweet-like functionality**, allowing users to create channels, upload videos, subscribe, engage, and share content socially..
 
